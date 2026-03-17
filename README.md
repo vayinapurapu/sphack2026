@@ -1,4 +1,4 @@
-# SharePoint Hackathon IDea 2026
+# SharePoint Hackathon Idea 2026
 
 Problem statement
 -----------------
